@@ -11,5 +11,10 @@
   "license": "GPL-3.0",
   "peerDependencies": {
     "rollup": "^0.67.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luxizzle/grunt-rollup2.git"
+  },
+  "homepage": "https://github.com/Luxizzle/grunt-rollup2"
 }
