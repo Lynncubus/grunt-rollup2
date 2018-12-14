@@ -1,15 +1,12 @@
 {
   "name": "grunt-rollup2",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Rollup task for Grunt",
   "main": "index.js",
-  "scripts": {
-    "test": "ava"
-  },
   "keywords": [
     "grunt",
     "rollup"
   ],
   "author": "Jelmer <hi@lux.moe>",
-  "license": "ISC"
+  "license": "GPL-3.0"
 }
