@@ -1,0 +1,15 @@
+{
+  "name": "grunt-rollup2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "grunt",
+    "rollup"
+  ],
+  "author": "Jelmer <hi@lux.moe>",
+  "license": "ISC"
+}
