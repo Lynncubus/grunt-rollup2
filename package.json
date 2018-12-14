@@ -8,5 +8,8 @@
     "rollup"
   ],
   "author": "Jelmer <hi@lux.moe>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "rollup": "^0.67.4"
+  }
 }

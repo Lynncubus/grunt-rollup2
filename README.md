@@ -67,8 +67,3 @@ module.exports = function(grunt) {
 - [ ] Watch task efficiency. Only rebuild the bundle that got changed.
 
   The task currently rebuilds every bundle on a reload in any watch task, the ability to only rebuild the bundle that actually got changed would be a nice performance boost. I currently personally use `https://github.com/gruntjs/grunt-contrib-watch` for watch tasks, but i'd love to hear from different options.
-
-# License
-
-
-
