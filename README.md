@@ -1,5 +1,7 @@
 # Grunt rollup
 
+**Disclaimer:** I personally do not use grunt as much anymore so new features will most likely not be implemented. I'm open to resolve any bugs / issues though.
+
 A Rollup task for grunt with the ability to create multiple bundles.
 
 This is not a fork of [grunt-rollup](https://github.com/chrisprice/grunt-rollup), but is inspired by it.
